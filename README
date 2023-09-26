@@ -1,0 +1,3 @@
+Berikut adalah Aplikasi POS (Point of Sales) berbasis website.
+Dikembangkan menggunakan framework Laravel.
+Terdapat beberapa fitur utama, seperti CRUD Produk, Customer, Transaksi, Cetak Nota dengan thermal printer, print to file PDF, Export data transaksi Harian dan Bulanan, ekspor impor data produk dll.
